@@ -32,7 +32,6 @@ CycleGAN enables **unpaired image-to-image translation**, meaning it doesn’t r
 Use this notebook in **Google Colab** for seamless GPU access.
 
 ### 2️⃣ Install Dependencies
-```bash
 !pip install kaggle -q
 When prompted, upload your kaggle.json file to authenticate.
 
@@ -54,7 +53,7 @@ datasets/anime2real/
 
 
 
-##🧠Model Architecture
+###🧠 Model Architecture
 Generator
 
 U-Net / ResNet-inspired
@@ -73,9 +72,9 @@ Provides fine-grained feedback to the generator
 
 Both are implemented in PyTorch and fully customizable.
 
-
-📚 References
+🧪 References
 
 CycleGAN Paper: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks — Zhu et al., 2017
 
 Official PyTorch Implementation: junyanz/pytorch-CycleGAN-and-pix2pix
+
