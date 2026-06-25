@@ -2,7 +2,7 @@
 # 🌀 Anime2Real – CycleGAN Image Translation
 
 This project implements **CycleGAN** to translate images between **anime faces** and **real human faces**.  
-It’s built using **Python + PyTorch** and optimized for **Google Colab** or any GPU-enabled environment.
+It’s built using **Python + PyTorch**.
 
 ---
 
